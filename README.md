@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+  Oh uhh, hi there  
+  <br>👋
+  </h1>
+  <h3 align="right">
+    <br>Okay, I gotta go 
+    <br>Cya later
+  </h3>
+  
+<p align="center">
+  <a href="https://garyoakidoki.github.io/"><img src="https://img.shields.io/badge/This is awkward-https://garyoakidoki.github.io/-0A66C2?style=flat-square&logo=firefoxbrowser" alt="Personal Website"></a>
+</p>
 
 <!--
 **garyoakidoki/garyoakidoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
